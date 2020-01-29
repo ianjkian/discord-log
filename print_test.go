@@ -13,14 +13,14 @@ const (
 )
 
 func TestPrintWarning(t *testing.T) {
-	if err := PrintWarning("new warning occured!", Id, Token); err != nil {
+	if err := PrintWarning("new warning occurred!", Id, Token); err != nil {
 		t.Error(err)
 		t.Fail()
 	}
 }
 
 func TestPrintError(t *testing.T) {
-	if err := PrintError("new error occured!", Id, Token); err != nil {
+	if err := PrintError("new error occurred!", Id, Token); err != nil {
 		t.Error(err)
 		t.Fail()
 	}

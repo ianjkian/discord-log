@@ -3,6 +3,7 @@
 
 package discordlog
 
+// Webhook struct
 type Webhook struct {
 	id    string
 	token string

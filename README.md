@@ -1,4 +1,4 @@
-cmc-proapi [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nikchis/discord-log/master/LICENSE) [![Go Report Card](https://goreportcard.com/badge/github.com/nikchis/discord-log?)](https://goreportcard.com/report/github.com/nikchis/discord-log) [![GoDoc](https://godoc.org/github.com/nikchis/discord-log?status.svg)](https://godoc.org/github.com/nikchis/discord-log)
+discord-log [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nikchis/discord-log/master/LICENSE) [![Go Report Card](https://goreportcard.com/badge/github.com/nikchis/discord-log?)](https://goreportcard.com/report/github.com/nikchis/discord-log) [![GoDoc](https://godoc.org/github.com/nikchis/discord-log?status.svg)](https://godoc.org/github.com/nikchis/discord-log)
 ==========
 
 discord-log is a golang package which allows you easily send text messages with different levels of logging {info, warning, error} to Discord webhook.

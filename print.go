@@ -21,7 +21,7 @@ func (wh *Webhook) PrintInfo(text string) error {
 	e := embed{
 		Title:       "Info",
 		Description: text,
-		Color:       colorBlack,
+		Color:       colorHeart,
 		Timestamp:   time.Now().Format(time.RFC3339),
 	}
 	err := wh.printEmbed(e)

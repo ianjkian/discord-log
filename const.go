@@ -11,6 +11,7 @@ const (
 	colorRed    = "13369344"
 	colorYellow = "16763904"
 	colorBlack  = "1118481"
+	colorHeart  = "11026233"
 
 	envId    = "DISCORD_WEBHOOK_ID"
 	envToken = "DISCORD_WEBHOOK_TOKEN"
